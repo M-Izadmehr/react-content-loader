@@ -27,7 +27,7 @@
     "test": "npm run lint && npm run testonly && npm run flow",
     "test-watch": "npm run testonly -- --watch --watch-extensions js",
     "storybook": "start-storybook -p 6006",
-    "flow": "flow",
+    "flow": "flow"
   },
   "devDependencies": {
     "@storybook/react": "^3.1.9",
